@@ -1,0 +1,173 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcworkspace
+*.DS_Store
+Intermediate/CachedAssetRegistry_0.bin
+Intermediate/CachedAssetRegistryDiscovery.bin
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/cef3.log
+Saved/Logs/Senior_Game.log
+Saved/webcache_6613/Default/Cache/Cache_Data/f_00007f
+Saved/webcache_6613/Default/Code Cache/js/0c27322a7bfa5435_0
+Saved/webcache_6613/Default/Code Cache/js/10db98c72235bafc_0
+Saved/webcache_6613/Default/Code Cache/js/2cfbed853c11d14a_0
+Saved/webcache_6613/Default/Code Cache/js/316735911d99b9fd_0
+Saved/webcache_6613/Default/Code Cache/js/3e9fe95e49e5059d_0
+Saved/webcache_6613/Default/Code Cache/js/4382cc65ea924d12_0
+Saved/webcache_6613/Default/Code Cache/js/468db8da01882dc5_0
+Saved/webcache_6613/Default/Code Cache/js/4e9b2a1975d3d17f_0
+Saved/webcache_6613/Default/Code Cache/js/5f2dc09945a58e91_0
+Saved/webcache_6613/Default/Code Cache/js/7823730de6eceff3_0
+Saved/webcache_6613/Default/Code Cache/js/8315982aa6699d9c_0
+Saved/webcache_6613/Default/Code Cache/js/a466ecc802199681_0
+Saved/webcache_6613/Default/Code Cache/js/a4750e8b435a6657_0
+Saved/webcache_6613/Default/Code Cache/js/a671f5d930d5e1f9_0
+Saved/webcache_6613/Default/Code Cache/js/b3f63f1e13a123e3_0
+Saved/webcache_6613/Default/Code Cache/js/b88f52fd5e627a60_0
+Saved/webcache_6613/Default/Code Cache/js/ba98051f66ebdeee_0
+Saved/webcache_6613/Default/Code Cache/js/c5840ea530519335_0
+Saved/webcache_6613/Default/Code Cache/js/caab6f41a566facd_0
+Saved/webcache_6613/Default/Code Cache/js/cabdbce3488b8b0c_0
+Saved/webcache_6613/Default/Code Cache/js/d1ca9ce84977debc_0
+Saved/webcache_6613/Default/Code Cache/js/d9bddb76db1e7507_0
+Saved/webcache_6613/Default/Code Cache/js/e074b91787e3f80a_0
+Saved/webcache_6613/Default/Code Cache/js/f4644d8a4260d615_0
+Saved/webcache_6613/Default/Code Cache/js/index-dir/the-real-index
+Saved/webcache_6613/Default/DIPS
+Saved/webcache_6613/Default/Extension State/LOG
+Saved/webcache_6613/Default/History
+Saved/webcache_6613/Default/History-journal
+Saved/webcache_6613/Default/Local Storage/leveldb/LOG
+Saved/webcache_6613/Default/Network/Cookies
+Saved/webcache_6613/Default/Network/Cookies-journal
+Saved/webcache_6613/Default/Network/Network Persistent State
+Saved/webcache_6613/Default/Network/TransportSecurity
+Saved/webcache_6613/Default/Preferences
+Saved/webcache_6613/Default/Session Storage/LOG
+Saved/webcache_6613/Default/shared_proto_db/000003.log
+Saved/webcache_6613/Default/shared_proto_db/LOG
+Saved/webcache_6613/Default/shared_proto_db/metadata/000003.log
+Saved/webcache_6613/Default/shared_proto_db/metadata/LOG
+Saved/webcache_6613/Default/Site Characteristics Database/LOG
+Saved/webcache_6613/Default/Sync Data/LevelDB/LOG
+Saved/webcache_6613/Default/Sync Data/LevelDB/LOG.old
+Saved/webcache_6613/first_party_sets.db
+Saved/webcache_6613/Local State
+Saved/webcache_6613/segmentation_platform/ukm_db
+Saved/webcache_6613/segmentation_platform/ukm_db-journal
+Saved/webcache_6613/Variations
+Intermediate/CachedAssetRegistry_0.bin
+Intermediate/CachedAssetRegistryDiscovery.bin
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/cef3.log
+Saved/Logs/Senior_Game.log
+Saved/webcache_6613/Default/Cache/Cache_Data/f_00007f
+Saved/webcache_6613/Default/Code Cache/js/0c27322a7bfa5435_0
+Saved/webcache_6613/Default/Code Cache/js/10db98c72235bafc_0
+Saved/webcache_6613/Default/Code Cache/js/2cfbed853c11d14a_0
+Saved/webcache_6613/Default/Code Cache/js/316735911d99b9fd_0
+Saved/webcache_6613/Default/Code Cache/js/3e9fe95e49e5059d_0
+Saved/webcache_6613/Default/Code Cache/js/4382cc65ea924d12_0
+Saved/webcache_6613/Default/Code Cache/js/468db8da01882dc5_0
+Saved/webcache_6613/Default/Code Cache/js/4e9b2a1975d3d17f_0
+Saved/webcache_6613/Default/Code Cache/js/5f2dc09945a58e91_0
+Saved/webcache_6613/Default/Code Cache/js/7823730de6eceff3_0
+Saved/webcache_6613/Default/Code Cache/js/8315982aa6699d9c_0
+Saved/webcache_6613/Default/Code Cache/js/a466ecc802199681_0
+Saved/webcache_6613/Default/Code Cache/js/a4750e8b435a6657_0
+Saved/webcache_6613/Default/Code Cache/js/a671f5d930d5e1f9_0
+Saved/webcache_6613/Default/Code Cache/js/b3f63f1e13a123e3_0
+Saved/webcache_6613/Default/Code Cache/js/b88f52fd5e627a60_0
+Saved/webcache_6613/Default/Code Cache/js/ba98051f66ebdeee_0
+Saved/webcache_6613/Default/Code Cache/js/c5840ea530519335_0
+Saved/webcache_6613/Default/Code Cache/js/caab6f41a566facd_0
+Saved/webcache_6613/Default/Code Cache/js/cabdbce3488b8b0c_0
+Saved/webcache_6613/Default/Code Cache/js/d1ca9ce84977debc_0
+Saved/webcache_6613/Default/Code Cache/js/d9bddb76db1e7507_0
+Saved/webcache_6613/Default/Code Cache/js/e074b91787e3f80a_0
+Saved/webcache_6613/Default/Code Cache/js/f4644d8a4260d615_0
+Saved/webcache_6613/Default/Code Cache/js/index-dir/the-real-index
+Saved/webcache_6613/Default/DIPS
+Saved/webcache_6613/Default/Extension State/LOG
+Saved/webcache_6613/Default/History
+Saved/webcache_6613/Default/History-journal
+Saved/webcache_6613/Default/Local Storage/leveldb/LOG
+Saved/webcache_6613/Default/Network/Cookies
+Saved/webcache_6613/Default/Network/Cookies-journal
+Saved/webcache_6613/Default/Network/Network Persistent State
+Saved/webcache_6613/Default/Network/TransportSecurity
+Saved/webcache_6613/Default/Preferences
+Saved/webcache_6613/Default/Session Storage/LOG
+Saved/webcache_6613/Default/shared_proto_db/000003.log
+Saved/webcache_6613/Default/shared_proto_db/LOG
+Saved/webcache_6613/Default/shared_proto_db/metadata/000003.log
+Saved/webcache_6613/Default/shared_proto_db/metadata/LOG
+Saved/webcache_6613/Default/Site Characteristics Database/LOG
+Saved/webcache_6613/Default/Sync Data/LevelDB/LOG
+Saved/webcache_6613/Default/Sync Data/LevelDB/LOG.old
+Saved/webcache_6613/first_party_sets.db
+Saved/webcache_6613/Local State
+Saved/webcache_6613/segmentation_platform/ukm_db
+Saved/webcache_6613/segmentation_platform/ukm_db-journal
+Saved/webcache_6613/Variations
+Intermediate/CachedAssetRegistry_0.bin
+Intermediate/CachedAssetRegistryDiscovery.bin
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/cef3.log
+Saved/Logs/Senior_Game.log
+Saved/webcache_6613/Default/Cache/Cache_Data/f_00007f
+Saved/webcache_6613/Default/Code Cache/js/0c27322a7bfa5435_0
+Saved/webcache_6613/Default/Code Cache/js/10db98c72235bafc_0
+Saved/webcache_6613/Default/Code Cache/js/2cfbed853c11d14a_0
+Saved/webcache_6613/Default/Code Cache/js/316735911d99b9fd_0
+Saved/webcache_6613/Default/Code Cache/js/3e9fe95e49e5059d_0
+Saved/webcache_6613/Default/Code Cache/js/4382cc65ea924d12_0
+Saved/webcache_6613/Default/Code Cache/js/468db8da01882dc5_0
+Saved/webcache_6613/Default/Code Cache/js/4e9b2a1975d3d17f_0
+Saved/webcache_6613/Default/Code Cache/js/5f2dc09945a58e91_0
+Saved/webcache_6613/Default/Code Cache/js/7823730de6eceff3_0
+Saved/webcache_6613/Default/Code Cache/js/8315982aa6699d9c_0
+Saved/webcache_6613/Default/Code Cache/js/a466ecc802199681_0
+Saved/webcache_6613/Default/Code Cache/js/a4750e8b435a6657_0
+Saved/webcache_6613/Default/Code Cache/js/a671f5d930d5e1f9_0
+Saved/webcache_6613/Default/Code Cache/js/b3f63f1e13a123e3_0
+Saved/webcache_6613/Default/Code Cache/js/b88f52fd5e627a60_0
+Saved/webcache_6613/Default/Code Cache/js/ba98051f66ebdeee_0
+Saved/webcache_6613/Default/Code Cache/js/c5840ea530519335_0
+Saved/webcache_6613/Default/Code Cache/js/caab6f41a566facd_0
+Saved/webcache_6613/Default/Code Cache/js/cabdbce3488b8b0c_0
+Saved/webcache_6613/Default/Code Cache/js/d1ca9ce84977debc_0
+Saved/webcache_6613/Default/Code Cache/js/d9bddb76db1e7507_0
+Saved/webcache_6613/Default/Code Cache/js/e074b91787e3f80a_0
+Saved/webcache_6613/Default/Code Cache/js/f4644d8a4260d615_0
+Saved/webcache_6613/Default/Code Cache/js/index-dir/the-real-index
+Saved/webcache_6613/Default/DIPS
+Saved/webcache_6613/Default/Extension State/LOG
+Saved/webcache_6613/Default/History
+Saved/webcache_6613/Default/History-journal
+Saved/webcache_6613/Default/Local Storage/leveldb/LOG
+Saved/webcache_6613/Default/Network/Cookies
+Saved/webcache_6613/Default/Network/Cookies-journal
+Saved/webcache_6613/Default/Network/Network Persistent State
+Saved/webcache_6613/Default/Network/TransportSecurity
+Saved/webcache_6613/Default/Preferences
+Saved/webcache_6613/Default/Session Storage/LOG
+Saved/webcache_6613/Default/shared_proto_db/000003.log
+Saved/webcache_6613/Default/shared_proto_db/LOG
+Saved/webcache_6613/Default/shared_proto_db/metadata/000003.log
+Saved/webcache_6613/Default/shared_proto_db/metadata/LOG
+Saved/webcache_6613/Default/Site Characteristics Database/LOG
+Saved/webcache_6613/Default/Sync Data/LevelDB/LOG
+Saved/webcache_6613/Default/Sync Data/LevelDB/LOG.old
+Saved/webcache_6613/first_party_sets.db
+Saved/webcache_6613/Local State
+Saved/webcache_6613/segmentation_platform/ukm_db
+Saved/webcache_6613/segmentation_platform/ukm_db-journal
+Saved/webcache_6613/Variations
